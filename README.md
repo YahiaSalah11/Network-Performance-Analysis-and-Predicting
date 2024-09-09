@@ -1,4 +1,4 @@
-## Using Seaborn and Matplotlib for making EDA (Exploratory Data Analysis) and visualization ,Then using Skikitlearn for making Random Forest model for predicting effect of actions on specific features
+### Using Seaborn and Matplotlib for making EDA (Exploratory Data Analysis) and visualization ,Then using Skikitlearn for making Random Forest model for predicting effect of actions on specific features
 
 ## **Notebook Contents**
 
